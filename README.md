@@ -17,8 +17,8 @@
 感谢以下机构或站点提供的人工智能工具和参考学习资料。
 
 
-[![avatar](./img/lockup.svg)](https://tensorflow.google.cn/)
-[![avatar](./img/Pytorch_logo-1024x205.png)](https://pytorch.org/)
+[![avatar](http://www.tisv.cn/img/lockup.svg)](https://tensorflow.google.cn/)
+[![avatar](http://www.tisv.cn/img/Pytorch_logo-1024x205.png)](https://pytorch.org/)
 
 
 ### 合作
