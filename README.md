@@ -3,7 +3,7 @@
 --------------------------------------------------------------------------------
 
 
-[![Build Status](https://ci.pytorch.org/jenkins/job/pytorch-master/badge/icon)](http://www.tisv.cn/) [![GitHub stars](http://www.tisv.cn/img/givemeastar.png)](https://github.com/AITutorials/)
+[![Build Status](http://www.tisv.cn/img/badge.svg)](http://www.tisv.cn/) [![GitHub stars](http://www.tisv.cn/img/givemeastar.png)](https://github.com/AITutorials/)
 
 
 ### 使命
@@ -24,5 +24,16 @@
 ### 合作
 
 邮箱: os@orangestar.vip
+
+---
+
+
+## 其他资源
+
+* [Dataset(集成世界范围内重要AI技术解决方案)](https://github.com/AITutorials/dataset)
+
+* [Solutions(集成世界范围内重要AI技术解决方案)](https://github.com/AITutorials/solutions)
+
+* [Examples(展示AI实战教程中的示例)](https://github.com/AITutorials/examples)
 
 ---
