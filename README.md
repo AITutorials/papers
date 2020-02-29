@@ -30,7 +30,7 @@
 
 ## 其他资源
 
-* [Dataset(集成世界范围内的免费数据集和数据站点)](https://github.com/AITutorials/dataset)
+* [Dataset(集成世界范围内的免费数据集和数据站点)](https://github.com/AITutorials/datasets)
 
 * [Solutions(集成世界范围内重要AI技术解决方案)](https://github.com/AITutorials/solutions)
 
