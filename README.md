@@ -13,9 +13,16 @@
 ---
 
 
-### 合作
+### 推荐
 
-邮箱: os@orangestar.vip
+了解最新的AI技术，请尝试查看SOTA中的论文与代码。[进入SOTA](https://paperswithcode.com/sota)
+
+---
+
+
+### 反馈
+
+您可以使用Github中的issues进行问题反馈。[反馈]()
 
 ---
 
