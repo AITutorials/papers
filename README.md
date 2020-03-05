@@ -22,7 +22,7 @@
 
 ### 反馈
 
-您可以使用Github中的issues进行问题反馈。[反馈问题](https://github.com/AITutorials/cooperation/issues)
+您可以使用Github中的issues进行[问题反馈](https://github.com/AITutorials/cooperation/issues)。
 
 ---
 
