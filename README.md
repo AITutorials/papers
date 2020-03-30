@@ -11,13 +11,6 @@
 ---
 
 
-### 推荐
-
-了解最新的AI技术，请尝试查看SOTA中的论文与代码。[进入SOTA](https://paperswithcode.com/sota)
-
----
-
-
 ### 反馈
 
 对我们的内容有任何建议或意见，您可以使用Github中的issues进行[问题反馈](https://github.com/AITutorials/cooperation/issues)。
