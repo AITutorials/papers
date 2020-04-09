@@ -17,7 +17,7 @@
 
 当前在WMT2014英语到德语翻译集上表现最好的机器翻译模型是Transformer Big，其模型在提升中使用的技巧BT(Back-Translation)正是源自于该论文。
 
-**[点击查看](http://www.aitutorials.cn:8980/1/)**
+**[点击查看](https://arxiv.org/pdf/1808.09381v2.pdf)**
 
 
 
