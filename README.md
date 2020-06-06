@@ -72,7 +72,7 @@
 
 
 #### 7. DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution
-，
+
 当前在COCO test-dev数据集上表现最佳的目标检测模型是DetectoRS (ResNeXt-101-32x4d, multi-scale)，其中主要实验过程和结论正源于该论文。
 
 
