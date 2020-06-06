@@ -85,7 +85,7 @@
 当前在ImageNet 64x64数据集上表现最佳的图像生成模型是Sparse Transformer 152M (strided)，其中主要实验过程和结论正源于该论文。
 
 
-**[点击查看](https://d4mucfpksywv.cloudfront.net/Sparse_Transformer/sparse_transformers.pdf)
+**[点击查看](https://d4mucfpksywv.cloudfront.net/Sparse_Transformer/sparse_transformers.pdf)**
 
 ---
 
