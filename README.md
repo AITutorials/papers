@@ -39,7 +39,7 @@
 从论文的名字可以看出，这正是支持大名鼎鼎的Google T5-3B的源论文，它在SQuAD1.1 dev问答数据集上取得了当前的SOTA水平。
 
 
-**[点击查看](https://arxiv.org/pdf/1910.10683v2.pdf)
+**[点击查看](https://arxiv.org/pdf/1910.10683v2.pdf)**
 
 ---
 
@@ -48,7 +48,7 @@
 当前在SST-5 Fine-grained classification数据集上表现最佳的情感分析模型是BERT-large，其中主要实验过程和结论正源于该论文。
 
 
-**[点击查看](https://arxiv.org/pdf/1910.03474v1.pdf)
+**[点击查看](https://arxiv.org/pdf/1910.03474v1.pdf)**
 
 ---
 
@@ -57,7 +57,7 @@
 当前在Cityscapes test数据集上表现最佳的语义分割模型是HRNetV2，其中主要实验过程和结论正源于该论文。
 
 
-**[点击查看](https://arxiv.org/pdf/1909.11065v2.pdf)
+**[点击查看](https://arxiv.org/pdf/1909.11065v2.pdf)**
 
 ---
 
@@ -66,7 +66,7 @@
 当前在ImageNet数据集上表现最佳的图像分类模型是FixEfficientNet-L2，其中主要实验过程和结论正源于该论文。
 
 
-**[点击查看](https://arxiv.org/pdf/2003.08237v4.pdf)
+**[点击查看](https://arxiv.org/pdf/2003.08237v4.pdf)**
 
 ---
 
