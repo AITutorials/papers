@@ -23,6 +23,71 @@
 
 ---
 
+#### 2. Language Models are Few-Shot Learners
+
+当前在PennTreebank数据集上表现最佳的语言模型是GPT-3，它能够很好的应对包括翻译，问题解答和完形填空等下游任务，其中主要实验过程和结论正源于该论文。
+
+
+**[点击查看](https://arxiv.org/pdf/2005.14165v2.pdf)**
+
+
+---
+
+#### 3. Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer
+
+从论文的名字可以看出，这正是支持大名鼎鼎的Google T5-3B的源论文，它在SQuAD1.1 dev问答数据集上取得了当前的SOTA水平。
+
+---
+
+#### 4. Fine-grained Sentiment Classification using BERT
+
+当前在SST-5 Fine-grained classification数据集上表现最佳的情感分析模型是BERT-large，其中主要实验过程和结论正源于该论文。
+
+
+---
+
+####  5. Object-Contextual Representations for Semantic Segmentation
+
+当前在Cityscapes test数据集上表现最佳的语义分割模型是HRNetV2，其中主要实验过程和结论正源于该论文。
+
+
+---
+
+#### 6. Fixing the train-test resolution discrepancy: FixEfficientNet
+
+当前在ImageNet数据集上表现最佳的图像分类模型是FixEfficientNet-L2，其中主要实验过程和结论正源于该论文。
+
+
+---
+
+
+#### 7. DetectoRS: Detecting Objects with Recursive Feature Pyramid and Switchable Atrous Convolution
+，
+当前在COCO test-dev数据集上表现最佳的目标检测模型是DetectoRS (ResNeXt-101-32x4d, multi-scale)，其中主要实验过程和结论正源于该论文。
+
+---
+
+#### 8. Generating Long Sequences with Sparse Transformers
+
+当前在ImageNet 64x64数据集上表现最佳的图像生成模型是Sparse Transformer 152M (strided)，其中主要实验过程和结论正源于该论文。
+
+---
+
+
+#### 9. Toward fast and accurate human pose estimation via soft-gated skip connections
+
+当前在MPII Human Pose数据集上表现最佳的姿势估计模型是Soft-gated Skip Connections，其中主要实验过程和结论正源于该论文。
+
+
+---
+
+#### 10. English Conversational Telephone Speech Recognition by Humans and Machines
+
+当前在Switchboard + Hub500数据集上表现最佳的语音识别模型是ResNet + BiLSTMs acoustic model，其中主要实验过程和结论正源于该论文。
+
+
+---
+
 
 ## 其他资源
 
