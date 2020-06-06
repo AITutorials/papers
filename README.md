@@ -76,7 +76,7 @@
 当前在COCO test-dev数据集上表现最佳的目标检测模型是DetectoRS (ResNeXt-101-32x4d, multi-scale)，其中主要实验过程和结论正源于该论文。
 
 
-**[点击查看](https://arxiv.org/pdf/2006.02334v1.pdf)
+**[点击查看](https://arxiv.org/pdf/2006.02334v1.pdf)**
 
 ---
 
@@ -95,7 +95,7 @@
 当前在MPII Human Pose数据集上表现最佳的姿势估计模型是Soft-gated Skip Connections，其中主要实验过程和结论正源于该论文。
 
 
-**[点击查看](https://arxiv.org/pdf/2002.11098v1.pdf)
+**[点击查看](https://arxiv.org/pdf/2002.11098v1.pdf)**
 
 ---
 
@@ -104,7 +104,7 @@
 当前在Switchboard + Hub500数据集上表现最佳的语音识别模型是ResNet + BiLSTMs acoustic model，其中主要实验过程和结论正源于该论文。
 
 
-**[点击查看](https://arxiv.org/pdf/1703.02136v1.pdf)
+**[点击查看](https://arxiv.org/pdf/1703.02136v1.pdf)**
 
 ---
 
