@@ -115,7 +115,7 @@
 
 * [Solutions(集成世界范围内重要AI技术解决方案)](https://github.com/AITutorials/solutions)
 
-* [Manuals(解析真实企业的AI面试问题)](https://github.com/AITutorials/examples)
+* [Experience(分享流行开源项目的贡献经验)](https://github.com/AITutorials/examples)
 
 ---
 
